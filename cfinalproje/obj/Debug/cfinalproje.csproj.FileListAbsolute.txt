@@ -1,0 +1,11 @@
+C:\Users\capsl\Desktop\cfinalproje\cfinalproje\bin\Debug\cfinalproje.exe.config
+C:\Users\capsl\Desktop\cfinalproje\cfinalproje\bin\Debug\cfinalproje.exe
+C:\Users\capsl\Desktop\cfinalproje\cfinalproje\bin\Debug\cfinalproje.pdb
+C:\Users\capsl\Desktop\cfinalproje\cfinalproje\obj\Debug\cfinalproje.csproj.AssemblyReference.cache
+C:\Users\capsl\Desktop\cfinalproje\cfinalproje\obj\Debug\cfinalproje.Properties.Resources.resources
+C:\Users\capsl\Desktop\cfinalproje\cfinalproje\obj\Debug\cfinalproje.csproj.GenerateResource.cache
+C:\Users\capsl\Desktop\cfinalproje\cfinalproje\obj\Debug\cfinalproje.csproj.CoreCompileInputs.cache
+C:\Users\capsl\Desktop\cfinalproje\cfinalproje\obj\Debug\cfinalproje.exe
+C:\Users\capsl\Desktop\cfinalproje\cfinalproje\obj\Debug\cfinalproje.pdb
+C:\Users\capsl\Desktop\cfinalproje\cfinalproje\obj\Debug\cfinalproje.anasayfa.resources
+C:\Users\capsl\Desktop\cfinalproje\cfinalproje\obj\Debug\cfinalproje.giris.resources
